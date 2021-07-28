@@ -1,0 +1,22 @@
+.bg-header{
+    background-color: #FFF9F4;
+}
+.header-text{
+    padding-bottom: 130px;
+}
+.bg-card{
+    background-color: #F1F1F1;
+}
+.card-body{
+    padding: 1rem 0 !important;
+}
+
+@media screen and (max-width: 768px) {
+   .media-img-header{
+       width: 270px;
+   }
+    
+}
+*{
+    box-sizing: border-box;
+}
